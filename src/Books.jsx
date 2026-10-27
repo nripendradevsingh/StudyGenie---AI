@@ -130,7 +130,7 @@ const BOOKS = [
     rating: "4.8",
     reviews: "2.1k",
     search:
-      "https://www.google.com/search?q=Data+Structures+and+Algorithms+Mark+Allen+Weiss",
+      "https://openlibrary.org/isbn/9780132576277",
   },
   {
     id: 2,
@@ -144,7 +144,7 @@ const BOOKS = [
     rating: "4.7",
     reviews: "1.5k",
     search:
-      "https://www.google.com/search?q=Operating+System+Concepts+Silberschatz",
+      "https://openlibrary.org/isbn/9781119800361",
   },
   {
     id: 3,
@@ -158,7 +158,7 @@ const BOOKS = [
     rating: "4.6",
     reviews: "1.3k",
     search:
-      "https://www.google.com/search?q=Database+System+Concepts+Silberschatz+Korth",
+      "https://openlibrary.org/isbn/9780078022159",
   },
   {
     id: 4,
@@ -172,7 +172,7 @@ const BOOKS = [
     rating: "4.6",
     reviews: "1.2k",
     search:
-      "https://www.google.com/search?q=Computer+Networks+Andrew+Tanenbaum",
+      "https://openlibrary.org/isbn/9780132126953",
   },
   {
     id: 5,
@@ -186,7 +186,7 @@ const BOOKS = [
     rating: "4.7",
     reviews: "980",
     search:
-      "https://www.google.com/search?q=Java+The+Complete+Reference+Herbert+Schildt",
+      "https://openlibrary.org/isbn/9781260440218",
   },
   {
     id: 6,
@@ -199,7 +199,7 @@ const BOOKS = [
     tags: ["HTML", "CSS"],
     rating: "4.8",
     reviews: "1.8k",
-    search: "https://www.google.com/search?q=HTML+and+CSS+Jon+Duckett",
+    search: "https://openlibrary.org/isbn/9781118008188",
   },
   {
     id: 7,
@@ -213,7 +213,7 @@ const BOOKS = [
     rating: "4.7",
     reviews: "1.1k",
     search:
-      "https://www.google.com/search?q=JavaScript+The+Definitive+Guide+David+Flanagan",
+      "https://www.oreilly.com/library/view/javascript-the-definitive/9781491952016/",
   },
   {
     id: 8,
@@ -227,7 +227,7 @@ const BOOKS = [
     rating: "4.5",
     reviews: "2.4k",
     search:
-      "https://www.google.com/search?q=Quantitative+Aptitude+RS+Aggarwal",
+      "https://openlibrary.org/isbn/9789352606760",
   },
 ];
 
